@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ninth",
+            "request": "launch",
+            "mainClass": "com.liuhx.Ninth",
+            "projectName": "leetCodeStudy"
+        }
+    ]
+}
