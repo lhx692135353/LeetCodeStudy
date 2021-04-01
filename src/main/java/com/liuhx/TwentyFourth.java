@@ -27,8 +27,8 @@ public class TwentyFourth {
         while (listNode.next != null) {
             ListNode la = listNode.next;
             ListNode lb = la.next;
-            ListNode lc = lb.next;
             if (lb == null) break;
+            ListNode lc = lb.next;
             listNode.next = lb;
             lb.next = la;
             la.next = lc;
